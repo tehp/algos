@@ -4,9 +4,9 @@
 	},
 	"ava": {
 		"files": [
-		"**/*test.js"
+			"**/*test.js"
 		]
-  	},
+	},
 	"devDependencies": {
 		"ava": "^3.15.0"
 	}
